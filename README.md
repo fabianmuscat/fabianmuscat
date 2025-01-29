@@ -1,7 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning **Vue** and **Tailwind CSS**
-- 📫 How to reach me: fabian.muscat@icloud.com
+- 🔭 I’m currently reading for a Master in Data Science at the University of Malta
+- 📫 How to reach me: fabian.muscat1@gmail.com
 - 👨‍💻 Software Developer at [SHIELD Consultants](https://www.shield.com.mt/)
 
 
